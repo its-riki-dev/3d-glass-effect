@@ -2,7 +2,7 @@
 
 A visually striking glass-effect 3D experience built using **Three.js**, **TailwindCSS**, and **HDRI lighting**. Features a realistic transparent torus rendered with `MeshPhysicalMaterial`, customizable via **GUI controls** for transmission, thickness, IOR, and more. Includes HDR-based lighting and reflections, dynamic rotation animation, and full mobile responsiveness for immersive visuals on any device.
 
-[![HomeSS](public/homepage.png)](https://cyberpunk-landing-page-chi.vercel.app/)
+[![HomeSS](public/homepage.png)](https://3d-glass-effect-five.vercel.app/)
 
 ---
 
